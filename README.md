@@ -1,0 +1,1 @@
+This repository will be used as my ClarkState Capstone project to develope a Github page that will host examples of what I accomplished in pursuit of my degree. Additionally, the page will serve as an example for potential employers in the future. 

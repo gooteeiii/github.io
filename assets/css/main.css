@@ -1788,7 +1788,7 @@ input, select, textarea {
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
-				width: 100%;
+				width: 50%;
 			}
 
 		header.major > p {
@@ -3481,9 +3481,9 @@ input, select, textarea {
 				}
 
 		#banner.major {
-			height: 75vh;
-			min-height: 30em;
-			max-height: 50em;
+			#height: 75vh;
+			#min-height: 30em;
+			#max-height: 50em;
 		}
 
 			#banner.major.alt {
@@ -3637,7 +3637,7 @@ input, select, textarea {
 		}
 
 			#contact > .inner > :nth-child(2n - 1) {
-				padding: 4em 3em 2em 0 ;
+				#padding: 4em 3em 2em 0 ;
 				border-right: solid 1px rgba(212, 212, 255, 0.1);
 				width: 60%;
 			}

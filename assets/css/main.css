@@ -2858,8 +2858,8 @@ input, select, textarea {
 
 			.tiles article {
 				padding: 4em 3em 2em 3em ;
-				height: 30vh;
-				max-height: 30em;
+				height: 60vh;
+				max-height: 60em;
 				min-height: 20em;
 			}
 
@@ -2877,7 +2877,7 @@ input, select, textarea {
 
 			.tiles article {
 				padding: 3em 1.5em 1em 1.5em ;
-				height: 16em;
+				height: 40em;
 				max-height: none;
 				min-height: 0;
 			}
@@ -2895,7 +2895,7 @@ input, select, textarea {
 			}
 
 				.tiles article {
-					height: 20em;
+					height: 30em;
 					width: 100% !important;
 				}
 
